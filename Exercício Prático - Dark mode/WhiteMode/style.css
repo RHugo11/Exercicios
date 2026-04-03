@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.letras{
+    color: rgb(27, 19, 70);
+}
+header{
+   
+    text-align: center;
+}
+
+.nome{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.preparo{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.ingredientes{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
